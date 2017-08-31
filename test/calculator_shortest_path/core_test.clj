@@ -1,6 +1,6 @@
-(ns calculator-the-game.core-test
+(ns calculator-shortest-path.core-test
   (:require [clojure.test :refer :all]
-            [calculator-the-game.core :refer :all]))
+            [calculator-shortest-path.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
